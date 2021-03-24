@@ -18,4 +18,4 @@ def bubble_sort_by(arr)
   end
 end
 
-print bubble_sort_by(["halloween","hi","hello","hey"]) { |left,right| left.length - right.length }
+print bubble_sort_by(%w[halloween hi hello hey]) { |left, right| left.length - right.length }
