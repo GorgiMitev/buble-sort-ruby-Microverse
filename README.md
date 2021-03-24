@@ -3,21 +3,24 @@
 
 In this project I was making two bubble sort methods using ruby.
 
-1. bubble_sort
-2. bubble_sort_by
-
-[x] Created the linters file required
-[x] Created the first method
-[x] Run the tests of the first method
- ``` p bubble_sort([1, 3, 2, 7, 6]) ```
-[x] Created the second method
-[x] Run the tests of the second method
- ``` p  bubble_sort_by(["halloween","hi","hello","hey"]) { |left,right| left.length - right.length } ```
-[x] Created the readme file
+- bubble_sort
+- bubble_sort_by
 
 ## Built With
 
 - Ruby
+
+# Work Done
+
+- Created the linters file required
+- Created the first method
+- Run the tests of the first method
+ * p bubble_sort([1, 3, 2, 7, 6])
+
+- Created the second method
+- Run the tests of the second method
+ * p  bubble_sort_by(["halloween","hi","hello","hey"]) { |left,right| left.length - right.length }
+- Created the readme file
 
 ## Getting Started
 
