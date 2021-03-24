@@ -4,6 +4,7 @@ def bubble_sort(arr)
     sorted = true
     arr.each_with_index do |item, index|
       next unless arr[index + 1] && item > arr[index + 1]
+      
       arr[index] = arr[index + 1]
       arr[index + 1] = item
       sorted = false
