@@ -10,7 +10,7 @@ def bubble_sort(arr)
     end
   end
   if sorted == true
-    return arr
+    arr
   else
     bubble_sort(arr)
   end
