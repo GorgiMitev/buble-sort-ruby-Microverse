@@ -10,10 +10,6 @@ In this project I was making two bubble sort methods using ruby.
 
 - Ruby
 
-## Live Demo
-
-[Live Demo Link](https://capstonelibrary.netlify.app)
-
 # Work Done
 
 - Created the linters file required
